@@ -1,0 +1,27 @@
+_repo: The-Norsk-Nightingale--Being-the-Lyrics-of-a--Lumberyack-_8953
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Kirk, William Frederick
+    alias: Kirk, William F.
+    birthdate: 1877
+    deathdate: 1927
+    gutenberg_agent_id: '2940'
+    url: http://www.gutenberg.org/2009/agents/2940
+    wikipedia: http://en.wikipedia.org/wiki/William_F._Kirk
+description: ''
+gutenberg_issued: '2005-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8953'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Dialect poetry, American'
+- !lcc 'PS'
+- !lcsh 'Humorous poetry, American'
+- GITenberg
+title: The Norsk Nightingale; Being the Lyrics of a "Lumberyack"
+url: http://www.gutenberg.org/ebooks/8953
